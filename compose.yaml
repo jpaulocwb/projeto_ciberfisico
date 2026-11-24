@@ -1,0 +1,55 @@
+# São três contêineres: um servidor e dois leitores que consultam o mesmo cadastro.
+services:
+  servidor-acesso:
+    # Usa o Dockerfile desta pasta para preparar o ambiente.
+    build: .
+    hostname: servidor-acesso
+    command: python servidor.py
+    ports:
+      # Permite testar pelo próprio computador em localhost:8080.
+      - "127.0.0.1:8080:8080"
+    volumes:
+      # O volume guarda o histórico mesmo quando o contêiner é recriado.
+      - logs_acesso:/app/logs
+    networks:
+      rede_acesso:
+        ipv4_address: 172.30.0.10
+
+  leitor-01:
+    build: .
+    # O cliente usa esse nome para identificar o leitor nas mensagens.
+    hostname: leitor-01
+    command: python cliente.py
+    depends_on:
+      # Inicia o servidor primeiro, mas não espera que ele esteja pronto.
+      # Se a primeira consulta falhar, o cliente tenta de novo no ciclo seguinte.
+      - servidor-acesso
+    networks:
+      rede_acesso:
+        ipv4_address: 172.30.0.21
+
+  leitor-02:
+    # O segundo leitor usa o mesmo programa, com outro nome e outro IP.
+    build: .
+    hostname: leitor-02
+    command: python cliente.py
+    depends_on:
+      - servidor-acesso
+    networks:
+      rede_acesso:
+        ipv4_address: 172.30.0.22
+
+# A rede bridge conecta os três contêineres. O DNS do Docker permite que
+# os clientes usem o nome servidor-acesso no lugar do endereço IP.
+networks:
+  rede_acesso:
+    driver: bridge
+    ipam:
+      config:
+        # /24 corresponde à máscara 255.255.255.0.
+        - subnet: 172.30.0.0/24
+          gateway: 172.30.0.1
+
+# Declara o volume usado pelo servidor; down sem -v mantém seus dados.
+volumes:
+  logs_acesso:

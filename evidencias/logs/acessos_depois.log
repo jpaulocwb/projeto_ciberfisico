@@ -1,0 +1,240 @@
+2026-11-23 19:25:29,650 [INFO] Servidor de Controle de Acesso na porta 8080 (HTTP/TCP)
+2026-11-23 19:25:29,718 [WARNING] [Thread-1 (process_request_thread)] NEGADO | Leitor=leitor-02 | Matrícula=9999999
+2026-11-23 19:25:29,783 [INFO] [Thread-2 (process_request_thread)] LIBERADO | Leitor=leitor-01 | Aluno=Ana (2026002)
+2026-11-23 19:25:33,720 [INFO] [Thread-3 (process_request_thread)] LIBERADO | Leitor=leitor-02 | Aluno=Ana (2026002)
+2026-11-23 19:25:33,785 [WARNING] [Thread-4 (process_request_thread)] NEGADO | Leitor=leitor-01 | Matrícula=9999999
+2026-11-23 19:25:37,725 [INFO] [Thread-5 (process_request_thread)] LIBERADO | Leitor=leitor-02 | Aluno=Carlos (2026003)
+2026-11-23 19:25:37,789 [WARNING] [Thread-6 (process_request_thread)] NEGADO | Leitor=leitor-01 | Matrícula=9999999
+2026-11-23 19:25:41,729 [WARNING] [Thread-7 (process_request_thread)] NEGADO | Leitor=leitor-02 | Matrícula=9999999
+2026-11-23 19:25:41,792 [INFO] [Thread-8 (process_request_thread)] LIBERADO | Leitor=leitor-01 | Aluno=Ana (2026002)
+2026-11-23 19:25:45,733 [INFO] [Thread-9 (process_request_thread)] LIBERADO | Leitor=leitor-02 | Aluno=Carlos (2026003)
+2026-11-23 19:25:45,796 [INFO] [Thread-10 (process_request_thread)] LIBERADO | Leitor=leitor-01 | Aluno=Ana (2026002)
+2026-11-23 19:25:49,735 [INFO] [Thread-11 (process_request_thread)] LIBERADO | Leitor=leitor-02 | Aluno=Ana (2026002)
+2026-11-23 19:25:49,798 [WARNING] [Thread-12 (process_request_thread)] NEGADO | Leitor=leitor-01 | Matrícula=9999999
+2026-11-23 19:26:39,112 [INFO] [Thread-13 (process_request_thread)] LIBERADO | Leitor=leitor-02 | Aluno=Ana (2026002)
+2026-11-23 19:26:39,175 [INFO] [Thread-14 (process_request_thread)] LIBERADO | Leitor=leitor-01 | Aluno=Ana (2026002)
+2026-11-23 19:26:43,114 [INFO] [Thread-15 (process_request_thread)] LIBERADO | Leitor=leitor-02 | Aluno=Nicolas (2026001)
+2026-11-23 19:26:43,177 [INFO] [Thread-16 (process_request_thread)] LIBERADO | Leitor=leitor-01 | Aluno=Nicolas (2026001)
+2026-11-23 19:26:47,115 [INFO] [Thread-17 (process_request_thread)] LIBERADO | Leitor=leitor-02 | Aluno=Ana (2026002)
+2026-11-23 19:26:47,179 [INFO] [Thread-18 (process_request_thread)] LIBERADO | Leitor=leitor-01 | Aluno=Carlos (2026003)
+2026-11-23 19:26:51,116 [INFO] [Thread-19 (process_request_thread)] LIBERADO | Leitor=leitor-02 | Aluno=Ana (2026002)
+2026-11-23 19:26:51,181 [INFO] [Thread-20 (process_request_thread)] LIBERADO | Leitor=leitor-01 | Aluno=Ana (2026002)
+2026-11-23 19:26:55,118 [INFO] [Thread-21 (process_request_thread)] LIBERADO | Leitor=leitor-02 | Aluno=Carlos (2026003)
+2026-11-23 19:26:55,182 [INFO] [Thread-22 (process_request_thread)] LIBERADO | Leitor=leitor-01 | Aluno=Carlos (2026003)
+2026-11-23 19:26:59,120 [WARNING] [Thread-23 (process_request_thread)] NEGADO | Leitor=leitor-02 | Matrícula=9999999
+2026-11-23 19:26:59,185 [WARNING] [Thread-24 (process_request_thread)] NEGADO | Leitor=leitor-01 | Matrícula=9999999
+2026-11-23 19:27:03,122 [INFO] [Thread-25 (process_request_thread)] LIBERADO | Leitor=leitor-02 | Aluno=Carlos (2026003)
+2026-11-23 19:27:03,186 [INFO] [Thread-26 (process_request_thread)] LIBERADO | Leitor=leitor-01 | Aluno=Carlos (2026003)
+2026-11-23 19:27:07,124 [WARNING] [Thread-27 (process_request_thread)] NEGADO | Leitor=leitor-02 | Matrícula=9999999
+2026-11-23 19:27:07,188 [INFO] [Thread-28 (process_request_thread)] LIBERADO | Leitor=leitor-01 | Aluno=Carlos (2026003)
+2026-11-23 19:27:11,126 [INFO] [Thread-29 (process_request_thread)] LIBERADO | Leitor=leitor-02 | Aluno=Nicolas (2026001)
+2026-11-23 19:27:11,190 [INFO] [Thread-30 (process_request_thread)] LIBERADO | Leitor=leitor-01 | Aluno=Carlos (2026003)
+2026-11-23 19:27:15,127 [WARNING] [Thread-31 (process_request_thread)] NEGADO | Leitor=leitor-02 | Matrícula=9999999
+2026-11-23 19:27:15,191 [INFO] [Thread-32 (process_request_thread)] LIBERADO | Leitor=leitor-01 | Aluno=Carlos (2026003)
+2026-11-23 19:27:19,130 [INFO] [Thread-33 (process_request_thread)] LIBERADO | Leitor=leitor-02 | Aluno=Ana (2026002)
+2026-11-23 19:27:19,192 [INFO] [Thread-34 (process_request_thread)] LIBERADO | Leitor=leitor-01 | Aluno=Carlos (2026003)
+2026-11-23 19:27:23,131 [INFO] [Thread-35 (process_request_thread)] LIBERADO | Leitor=leitor-02 | Aluno=Nicolas (2026001)
+2026-11-23 19:27:23,194 [INFO] [Thread-36 (process_request_thread)] LIBERADO | Leitor=leitor-01 | Aluno=Carlos (2026003)
+2026-11-23 19:27:27,133 [INFO] [Thread-37 (process_request_thread)] LIBERADO | Leitor=leitor-02 | Aluno=Ana (2026002)
+2026-11-23 19:27:27,196 [INFO] [Thread-38 (process_request_thread)] LIBERADO | Leitor=leitor-01 | Aluno=Carlos (2026003)
+2026-11-23 19:27:31,134 [WARNING] [Thread-39 (process_request_thread)] NEGADO | Leitor=leitor-02 | Matrícula=9999999
+2026-11-23 19:27:31,198 [INFO] [Thread-40 (process_request_thread)] LIBERADO | Leitor=leitor-01 | Aluno=Nicolas (2026001)
+2026-11-23 19:27:35,135 [INFO] [Thread-41 (process_request_thread)] LIBERADO | Leitor=leitor-02 | Aluno=Ana (2026002)
+2026-11-23 19:27:35,199 [WARNING] [Thread-42 (process_request_thread)] NEGADO | Leitor=leitor-01 | Matrícula=9999999
+2026-11-23 19:27:39,136 [INFO] [Thread-43 (process_request_thread)] LIBERADO | Leitor=leitor-02 | Aluno=Nicolas (2026001)
+2026-11-23 19:27:39,200 [WARNING] [Thread-44 (process_request_thread)] NEGADO | Leitor=leitor-01 | Matrícula=9999999
+2026-11-23 19:27:43,138 [INFO] [Thread-45 (process_request_thread)] LIBERADO | Leitor=leitor-02 | Aluno=Nicolas (2026001)
+2026-11-23 19:27:43,203 [INFO] [Thread-46 (process_request_thread)] LIBERADO | Leitor=leitor-01 | Aluno=Ana (2026002)
+2026-11-23 19:27:47,140 [INFO] [Thread-47 (process_request_thread)] LIBERADO | Leitor=leitor-02 | Aluno=Nicolas (2026001)
+2026-11-23 19:27:47,204 [INFO] [Thread-48 (process_request_thread)] LIBERADO | Leitor=leitor-01 | Aluno=Carlos (2026003)
+2026-11-23 19:27:51,141 [INFO] [Thread-49 (process_request_thread)] LIBERADO | Leitor=leitor-02 | Aluno=Ana (2026002)
+2026-11-23 19:27:51,205 [INFO] [Thread-50 (process_request_thread)] LIBERADO | Leitor=leitor-01 | Aluno=Ana (2026002)
+2026-11-23 19:27:55,143 [WARNING] [Thread-51 (process_request_thread)] NEGADO | Leitor=leitor-02 | Matrícula=9999999
+2026-11-23 19:27:55,206 [INFO] [Thread-52 (process_request_thread)] LIBERADO | Leitor=leitor-01 | Aluno=Ana (2026002)
+2026-11-23 19:27:59,145 [INFO] [Thread-53 (process_request_thread)] LIBERADO | Leitor=leitor-02 | Aluno=Carlos (2026003)
+2026-11-23 19:27:59,208 [INFO] [Thread-54 (process_request_thread)] LIBERADO | Leitor=leitor-01 | Aluno=Nicolas (2026001)
+2026-11-23 19:28:03,146 [INFO] [Thread-55 (process_request_thread)] LIBERADO | Leitor=leitor-02 | Aluno=Nicolas (2026001)
+2026-11-23 19:28:03,209 [WARNING] [Thread-56 (process_request_thread)] NEGADO | Leitor=leitor-01 | Matrícula=9999999
+2026-11-23 19:28:07,148 [INFO] [Thread-57 (process_request_thread)] LIBERADO | Leitor=leitor-02 | Aluno=Ana (2026002)
+2026-11-23 19:28:07,211 [INFO] [Thread-58 (process_request_thread)] LIBERADO | Leitor=leitor-01 | Aluno=Carlos (2026003)
+2026-11-23 19:28:11,150 [INFO] [Thread-59 (process_request_thread)] LIBERADO | Leitor=leitor-02 | Aluno=Carlos (2026003)
+2026-11-23 19:28:11,213 [WARNING] [Thread-60 (process_request_thread)] NEGADO | Leitor=leitor-01 | Matrícula=9999999
+2026-11-23 19:28:15,151 [INFO] [Thread-61 (process_request_thread)] LIBERADO | Leitor=leitor-02 | Aluno=Ana (2026002)
+2026-11-23 19:28:15,215 [WARNING] [Thread-62 (process_request_thread)] NEGADO | Leitor=leitor-01 | Matrícula=9999999
+2026-11-23 19:28:19,157 [INFO] [Thread-63 (process_request_thread)] LIBERADO | Leitor=leitor-02 | Aluno=Ana (2026002)
+2026-11-23 19:28:19,220 [WARNING] [Thread-64 (process_request_thread)] NEGADO | Leitor=leitor-01 | Matrícula=9999999
+2026-11-23 19:28:23,159 [WARNING] [Thread-65 (process_request_thread)] NEGADO | Leitor=leitor-02 | Matrícula=9999999
+2026-11-23 19:28:23,221 [INFO] [Thread-66 (process_request_thread)] LIBERADO | Leitor=leitor-01 | Aluno=Nicolas (2026001)
+2026-11-23 19:28:27,160 [INFO] [Thread-67 (process_request_thread)] LIBERADO | Leitor=leitor-02 | Aluno=Nicolas (2026001)
+2026-11-23 19:28:27,225 [INFO] [Thread-68 (process_request_thread)] LIBERADO | Leitor=leitor-01 | Aluno=Nicolas (2026001)
+2026-11-23 19:28:31,162 [INFO] [Thread-69 (process_request_thread)] LIBERADO | Leitor=leitor-02 | Aluno=Ana (2026002)
+2026-11-23 19:28:31,226 [INFO] [Thread-70 (process_request_thread)] LIBERADO | Leitor=leitor-01 | Aluno=Nicolas (2026001)
+2026-11-23 19:28:35,164 [WARNING] [Thread-71 (process_request_thread)] NEGADO | Leitor=leitor-02 | Matrícula=9999999
+2026-11-23 19:28:35,228 [INFO] [Thread-72 (process_request_thread)] LIBERADO | Leitor=leitor-01 | Aluno=Nicolas (2026001)
+2026-11-23 19:28:39,165 [INFO] [Thread-73 (process_request_thread)] LIBERADO | Leitor=leitor-02 | Aluno=Carlos (2026003)
+2026-11-23 19:28:39,229 [INFO] [Thread-74 (process_request_thread)] LIBERADO | Leitor=leitor-01 | Aluno=Nicolas (2026001)
+2026-11-23 19:28:43,166 [INFO] [Thread-75 (process_request_thread)] LIBERADO | Leitor=leitor-02 | Aluno=Ana (2026002)
+2026-11-23 19:28:43,230 [INFO] [Thread-76 (process_request_thread)] LIBERADO | Leitor=leitor-01 | Aluno=Ana (2026002)
+2026-11-23 19:28:47,168 [INFO] [Thread-77 (process_request_thread)] LIBERADO | Leitor=leitor-02 | Aluno=Carlos (2026003)
+2026-11-23 19:28:47,232 [INFO] [Thread-78 (process_request_thread)] LIBERADO | Leitor=leitor-01 | Aluno=Ana (2026002)
+2026-11-23 19:28:51,169 [INFO] [Thread-79 (process_request_thread)] LIBERADO | Leitor=leitor-02 | Aluno=Nicolas (2026001)
+2026-11-23 19:28:51,234 [WARNING] [Thread-80 (process_request_thread)] NEGADO | Leitor=leitor-01 | Matrícula=9999999
+2026-11-23 19:28:55,171 [INFO] [Thread-81 (process_request_thread)] LIBERADO | Leitor=leitor-02 | Aluno=Ana (2026002)
+2026-11-23 19:28:55,235 [INFO] [Thread-82 (process_request_thread)] LIBERADO | Leitor=leitor-01 | Aluno=Carlos (2026003)
+2026-11-23 19:28:59,172 [INFO] [Thread-83 (process_request_thread)] LIBERADO | Leitor=leitor-02 | Aluno=Nicolas (2026001)
+2026-11-23 19:28:59,237 [WARNING] [Thread-84 (process_request_thread)] NEGADO | Leitor=leitor-01 | Matrícula=9999999
+2026-11-23 19:29:03,175 [INFO] [Thread-85 (process_request_thread)] LIBERADO | Leitor=leitor-02 | Aluno=Nicolas (2026001)
+2026-11-23 19:29:03,238 [INFO] [Thread-86 (process_request_thread)] LIBERADO | Leitor=leitor-01 | Aluno=Nicolas (2026001)
+2026-11-23 19:29:07,177 [INFO] [Thread-87 (process_request_thread)] LIBERADO | Leitor=leitor-02 | Aluno=Carlos (2026003)
+2026-11-23 19:29:07,240 [INFO] [Thread-88 (process_request_thread)] LIBERADO | Leitor=leitor-01 | Aluno=Ana (2026002)
+2026-11-23 19:29:11,179 [INFO] [Thread-89 (process_request_thread)] LIBERADO | Leitor=leitor-02 | Aluno=Nicolas (2026001)
+2026-11-23 19:29:11,241 [INFO] [Thread-90 (process_request_thread)] LIBERADO | Leitor=leitor-01 | Aluno=Carlos (2026003)
+2026-11-23 19:29:15,180 [INFO] [Thread-91 (process_request_thread)] LIBERADO | Leitor=leitor-02 | Aluno=Carlos (2026003)
+2026-11-23 19:29:15,243 [INFO] [Thread-92 (process_request_thread)] LIBERADO | Leitor=leitor-01 | Aluno=Carlos (2026003)
+2026-11-23 19:29:19,181 [WARNING] [Thread-93 (process_request_thread)] NEGADO | Leitor=leitor-02 | Matrícula=9999999
+2026-11-23 19:29:19,245 [INFO] [Thread-94 (process_request_thread)] LIBERADO | Leitor=leitor-01 | Aluno=Carlos (2026003)
+2026-11-23 19:29:23,183 [INFO] [Thread-95 (process_request_thread)] LIBERADO | Leitor=leitor-02 | Aluno=Carlos (2026003)
+2026-11-23 19:29:23,246 [WARNING] [Thread-96 (process_request_thread)] NEGADO | Leitor=leitor-01 | Matrícula=9999999
+2026-11-23 19:29:27,184 [INFO] [Thread-97 (process_request_thread)] LIBERADO | Leitor=leitor-02 | Aluno=Nicolas (2026001)
+2026-11-23 19:29:27,248 [INFO] [Thread-98 (process_request_thread)] LIBERADO | Leitor=leitor-01 | Aluno=Carlos (2026003)
+2026-11-23 19:29:31,186 [INFO] [Thread-99 (process_request_thread)] LIBERADO | Leitor=leitor-02 | Aluno=Nicolas (2026001)
+2026-11-23 19:29:31,249 [INFO] [Thread-100 (process_request_thread)] LIBERADO | Leitor=leitor-01 | Aluno=Ana (2026002)
+2026-11-23 19:29:35,187 [INFO] [Thread-101 (process_request_thread)] LIBERADO | Leitor=leitor-02 | Aluno=Carlos (2026003)
+2026-11-23 19:29:35,251 [INFO] [Thread-102 (process_request_thread)] LIBERADO | Leitor=leitor-01 | Aluno=Ana (2026002)
+2026-11-23 19:29:39,189 [WARNING] [Thread-103 (process_request_thread)] NEGADO | Leitor=leitor-02 | Matrícula=9999999
+2026-11-23 19:29:39,252 [INFO] [Thread-104 (process_request_thread)] LIBERADO | Leitor=leitor-01 | Aluno=Ana (2026002)
+2026-11-23 19:29:43,191 [INFO] [Thread-105 (process_request_thread)] LIBERADO | Leitor=leitor-02 | Aluno=Nicolas (2026001)
+2026-11-23 19:29:43,254 [INFO] [Thread-106 (process_request_thread)] LIBERADO | Leitor=leitor-01 | Aluno=Ana (2026002)
+2026-11-23 19:29:47,192 [INFO] [Thread-107 (process_request_thread)] LIBERADO | Leitor=leitor-02 | Aluno=Carlos (2026003)
+2026-11-23 19:29:47,255 [WARNING] [Thread-108 (process_request_thread)] NEGADO | Leitor=leitor-01 | Matrícula=9999999
+2026-11-23 19:29:51,194 [INFO] [Thread-109 (process_request_thread)] LIBERADO | Leitor=leitor-02 | Aluno=Nicolas (2026001)
+2026-11-23 19:29:51,257 [INFO] [Thread-110 (process_request_thread)] LIBERADO | Leitor=leitor-01 | Aluno=Carlos (2026003)
+2026-11-23 19:29:55,195 [INFO] [Thread-111 (process_request_thread)] LIBERADO | Leitor=leitor-02 | Aluno=Ana (2026002)
+2026-11-23 19:29:55,258 [WARNING] [Thread-112 (process_request_thread)] NEGADO | Leitor=leitor-01 | Matrícula=9999999
+2026-11-23 19:29:59,197 [INFO] [Thread-113 (process_request_thread)] LIBERADO | Leitor=leitor-02 | Aluno=Nicolas (2026001)
+2026-11-23 19:29:59,260 [WARNING] [Thread-114 (process_request_thread)] NEGADO | Leitor=leitor-01 | Matrícula=9999999
+2026-11-23 19:30:03,198 [INFO] [Thread-115 (process_request_thread)] LIBERADO | Leitor=leitor-02 | Aluno=Ana (2026002)
+2026-11-23 19:30:03,261 [WARNING] [Thread-116 (process_request_thread)] NEGADO | Leitor=leitor-01 | Matrícula=9999999
+2026-11-23 19:30:07,204 [WARNING] [Thread-117 (process_request_thread)] NEGADO | Leitor=leitor-02 | Matrícula=9999999
+2026-11-23 19:30:07,264 [WARNING] [Thread-118 (process_request_thread)] NEGADO | Leitor=leitor-01 | Matrícula=9999999
+2026-11-23 19:30:11,213 [INFO] [Thread-119 (process_request_thread)] LIBERADO | Leitor=leitor-02 | Aluno=Ana (2026002)
+2026-11-23 19:30:11,272 [WARNING] [Thread-120 (process_request_thread)] NEGADO | Leitor=leitor-01 | Matrícula=9999999
+2026-11-23 19:30:15,221 [WARNING] [Thread-121 (process_request_thread)] NEGADO | Leitor=leitor-02 | Matrícula=9999999
+2026-11-23 19:30:15,276 [INFO] [Thread-122 (process_request_thread)] LIBERADO | Leitor=leitor-01 | Aluno=Ana (2026002)
+2026-11-23 19:30:19,232 [INFO] [Thread-123 (process_request_thread)] LIBERADO | Leitor=leitor-02 | Aluno=Nicolas (2026001)
+2026-11-23 19:30:19,285 [INFO] [Thread-124 (process_request_thread)] LIBERADO | Leitor=leitor-01 | Aluno=Nicolas (2026001)
+2026-11-23 19:30:23,237 [INFO] [Thread-125 (process_request_thread)] LIBERADO | Leitor=leitor-02 | Aluno=Carlos (2026003)
+2026-11-23 19:30:23,292 [INFO] [Thread-126 (process_request_thread)] LIBERADO | Leitor=leitor-01 | Aluno=Nicolas (2026001)
+2026-11-23 19:30:27,241 [INFO] [Thread-127 (process_request_thread)] LIBERADO | Leitor=leitor-02 | Aluno=Carlos (2026003)
+2026-11-23 19:30:27,299 [INFO] [Thread-128 (process_request_thread)] LIBERADO | Leitor=leitor-01 | Aluno=Ana (2026002)
+2026-11-23 19:30:31,249 [INFO] [Thread-129 (process_request_thread)] LIBERADO | Leitor=leitor-02 | Aluno=Carlos (2026003)
+2026-11-23 19:30:31,302 [INFO] [Thread-130 (process_request_thread)] LIBERADO | Leitor=leitor-01 | Aluno=Ana (2026002)
+2026-11-23 19:30:35,254 [INFO] [Thread-131 (process_request_thread)] LIBERADO | Leitor=leitor-02 | Aluno=Ana (2026002)
+2026-11-23 19:30:35,308 [INFO] [Thread-132 (process_request_thread)] LIBERADO | Leitor=leitor-01 | Aluno=Nicolas (2026001)
+2026-11-23 19:30:39,258 [INFO] [Thread-133 (process_request_thread)] LIBERADO | Leitor=leitor-02 | Aluno=Carlos (2026003)
+2026-11-23 19:30:39,313 [INFO] [Thread-134 (process_request_thread)] LIBERADO | Leitor=leitor-01 | Aluno=Nicolas (2026001)
+2026-11-23 19:30:43,261 [INFO] [Thread-135 (process_request_thread)] LIBERADO | Leitor=leitor-02 | Aluno=Carlos (2026003)
+2026-11-23 19:30:43,319 [WARNING] [Thread-136 (process_request_thread)] NEGADO | Leitor=leitor-01 | Matrícula=9999999
+2026-11-23 19:30:47,268 [INFO] [Thread-137 (process_request_thread)] LIBERADO | Leitor=leitor-02 | Aluno=Ana (2026002)
+2026-11-23 19:30:47,327 [WARNING] [Thread-138 (process_request_thread)] NEGADO | Leitor=leitor-01 | Matrícula=9999999
+2026-11-23 19:30:51,277 [INFO] [Thread-139 (process_request_thread)] LIBERADO | Leitor=leitor-02 | Aluno=Ana (2026002)
+2026-11-23 19:30:51,332 [INFO] [Thread-140 (process_request_thread)] LIBERADO | Leitor=leitor-01 | Aluno=Nicolas (2026001)
+2026-11-23 19:30:55,284 [WARNING] [Thread-141 (process_request_thread)] NEGADO | Leitor=leitor-02 | Matrícula=9999999
+2026-11-23 19:30:55,340 [INFO] [Thread-142 (process_request_thread)] LIBERADO | Leitor=leitor-01 | Aluno=Ana (2026002)
+2026-11-23 19:30:59,291 [INFO] [Thread-143 (process_request_thread)] LIBERADO | Leitor=leitor-02 | Aluno=Nicolas (2026001)
+2026-11-23 19:30:59,344 [INFO] [Thread-144 (process_request_thread)] LIBERADO | Leitor=leitor-01 | Aluno=Carlos (2026003)
+2026-11-23 19:31:03,299 [WARNING] [Thread-145 (process_request_thread)] NEGADO | Leitor=leitor-02 | Matrícula=9999999
+2026-11-23 19:31:03,351 [INFO] [Thread-146 (process_request_thread)] LIBERADO | Leitor=leitor-01 | Aluno=Ana (2026002)
+2026-11-23 19:31:07,303 [WARNING] [Thread-147 (process_request_thread)] NEGADO | Leitor=leitor-02 | Matrícula=9999999
+2026-11-23 19:31:07,358 [INFO] [Thread-148 (process_request_thread)] LIBERADO | Leitor=leitor-01 | Aluno=Nicolas (2026001)
+2026-11-23 19:31:11,309 [INFO] [Thread-149 (process_request_thread)] LIBERADO | Leitor=leitor-02 | Aluno=Nicolas (2026001)
+2026-11-23 19:31:11,364 [INFO] [Thread-150 (process_request_thread)] LIBERADO | Leitor=leitor-01 | Aluno=Ana (2026002)
+2026-11-23 19:31:15,312 [WARNING] [Thread-151 (process_request_thread)] NEGADO | Leitor=leitor-02 | Matrícula=9999999
+2026-11-23 19:31:15,371 [INFO] [Thread-152 (process_request_thread)] LIBERADO | Leitor=leitor-01 | Aluno=Nicolas (2026001)
+2026-11-23 19:31:19,318 [INFO] [Thread-153 (process_request_thread)] LIBERADO | Leitor=leitor-02 | Aluno=Nicolas (2026001)
+2026-11-23 19:31:19,376 [INFO] [Thread-154 (process_request_thread)] LIBERADO | Leitor=leitor-01 | Aluno=Carlos (2026003)
+2026-11-23 19:31:23,326 [INFO] [Thread-155 (process_request_thread)] LIBERADO | Leitor=leitor-02 | Aluno=Nicolas (2026001)
+2026-11-23 19:31:23,383 [WARNING] [Thread-156 (process_request_thread)] NEGADO | Leitor=leitor-01 | Matrícula=9999999
+2026-11-23 19:31:27,334 [INFO] [Thread-157 (process_request_thread)] LIBERADO | Leitor=leitor-02 | Aluno=Nicolas (2026001)
+2026-11-23 19:31:27,388 [WARNING] [Thread-158 (process_request_thread)] NEGADO | Leitor=leitor-01 | Matrícula=9999999
+2026-11-23 19:31:31,338 [INFO] [Thread-159 (process_request_thread)] LIBERADO | Leitor=leitor-02 | Aluno=Carlos (2026003)
+2026-11-23 19:31:31,396 [INFO] [Thread-160 (process_request_thread)] LIBERADO | Leitor=leitor-01 | Aluno=Nicolas (2026001)
+2026-11-23 19:31:35,346 [INFO] [Thread-161 (process_request_thread)] LIBERADO | Leitor=leitor-02 | Aluno=Nicolas (2026001)
+2026-11-23 19:31:35,403 [WARNING] [Thread-162 (process_request_thread)] NEGADO | Leitor=leitor-01 | Matrícula=9999999
+2026-11-23 19:31:39,352 [WARNING] [Thread-163 (process_request_thread)] NEGADO | Leitor=leitor-02 | Matrícula=9999999
+2026-11-23 19:31:39,411 [WARNING] [Thread-164 (process_request_thread)] NEGADO | Leitor=leitor-01 | Matrícula=9999999
+2026-11-23 19:31:43,355 [WARNING] [Thread-165 (process_request_thread)] NEGADO | Leitor=leitor-02 | Matrícula=9999999
+2026-11-23 19:31:43,419 [INFO] [Thread-166 (process_request_thread)] LIBERADO | Leitor=leitor-01 | Aluno=Ana (2026002)
+2026-11-23 19:31:47,362 [WARNING] [Thread-167 (process_request_thread)] NEGADO | Leitor=leitor-02 | Matrícula=9999999
+2026-11-23 19:31:47,423 [INFO] [Thread-168 (process_request_thread)] LIBERADO | Leitor=leitor-01 | Aluno=Ana (2026002)
+2026-11-23 19:31:51,365 [INFO] [Thread-169 (process_request_thread)] LIBERADO | Leitor=leitor-02 | Aluno=Nicolas (2026001)
+2026-11-23 19:31:51,430 [INFO] [Thread-170 (process_request_thread)] LIBERADO | Leitor=leitor-01 | Aluno=Ana (2026002)
+2026-11-23 19:31:55,367 [INFO] [Thread-171 (process_request_thread)] LIBERADO | Leitor=leitor-02 | Aluno=Nicolas (2026001)
+2026-11-23 19:31:55,433 [WARNING] [Thread-172 (process_request_thread)] NEGADO | Leitor=leitor-01 | Matrícula=9999999
+2026-11-23 19:31:59,374 [WARNING] [Thread-173 (process_request_thread)] NEGADO | Leitor=leitor-02 | Matrícula=9999999
+2026-11-23 19:31:59,440 [WARNING] [Thread-174 (process_request_thread)] NEGADO | Leitor=leitor-01 | Matrícula=9999999
+2026-11-23 19:32:03,387 [INFO] [Thread-175 (process_request_thread)] LIBERADO | Leitor=leitor-02 | Aluno=Nicolas (2026001)
+2026-11-23 19:32:03,447 [INFO] [Thread-176 (process_request_thread)] LIBERADO | Leitor=leitor-01 | Aluno=Nicolas (2026001)
+2026-11-23 19:32:07,400 [WARNING] [Thread-177 (process_request_thread)] NEGADO | Leitor=leitor-02 | Matrícula=9999999
+2026-11-23 19:32:07,461 [WARNING] [Thread-178 (process_request_thread)] NEGADO | Leitor=leitor-01 | Matrícula=9999999
+2026-11-23 19:32:11,413 [INFO] [Thread-179 (process_request_thread)] LIBERADO | Leitor=leitor-02 | Aluno=Ana (2026002)
+2026-11-23 19:32:11,474 [INFO] [Thread-180 (process_request_thread)] LIBERADO | Leitor=leitor-01 | Aluno=Nicolas (2026001)
+2026-11-23 19:32:15,418 [INFO] [Thread-181 (process_request_thread)] LIBERADO | Leitor=leitor-02 | Aluno=Ana (2026002)
+2026-11-23 19:32:15,486 [INFO] [Thread-182 (process_request_thread)] LIBERADO | Leitor=leitor-01 | Aluno=Carlos (2026003)
+2026-11-23 19:32:19,430 [INFO] [Thread-183 (process_request_thread)] LIBERADO | Leitor=leitor-02 | Aluno=Ana (2026002)
+2026-11-23 19:32:19,494 [WARNING] [Thread-184 (process_request_thread)] NEGADO | Leitor=leitor-01 | Matrícula=9999999
+2026-11-23 19:32:23,442 [INFO] [Thread-185 (process_request_thread)] LIBERADO | Leitor=leitor-02 | Aluno=Nicolas (2026001)
+2026-11-23 19:32:23,497 [WARNING] [Thread-186 (process_request_thread)] NEGADO | Leitor=leitor-01 | Matrícula=9999999
+2026-11-23 19:32:27,450 [INFO] [Thread-187 (process_request_thread)] LIBERADO | Leitor=leitor-02 | Aluno=Carlos (2026003)
+2026-11-23 19:32:27,507 [INFO] [Thread-188 (process_request_thread)] LIBERADO | Leitor=leitor-01 | Aluno=Nicolas (2026001)
+2026-11-23 19:32:31,459 [INFO] [Thread-189 (process_request_thread)] LIBERADO | Leitor=leitor-02 | Aluno=Nicolas (2026001)
+2026-11-23 19:32:31,519 [INFO] [Thread-190 (process_request_thread)] LIBERADO | Leitor=leitor-01 | Aluno=Ana (2026002)
+2026-11-23 19:32:35,473 [INFO] [Thread-191 (process_request_thread)] LIBERADO | Leitor=leitor-02 | Aluno=Carlos (2026003)
+2026-11-23 19:32:35,524 [INFO] [Thread-192 (process_request_thread)] LIBERADO | Leitor=leitor-01 | Aluno=Nicolas (2026001)
+2026-11-23 19:32:39,485 [WARNING] [Thread-193 (process_request_thread)] NEGADO | Leitor=leitor-02 | Matrícula=9999999
+2026-11-23 19:32:39,529 [WARNING] [Thread-194 (process_request_thread)] NEGADO | Leitor=leitor-01 | Matrícula=9999999
+2026-11-23 19:32:43,497 [INFO] [Thread-195 (process_request_thread)] LIBERADO | Leitor=leitor-02 | Aluno=Carlos (2026003)
+2026-11-23 19:32:43,537 [INFO] [Thread-196 (process_request_thread)] LIBERADO | Leitor=leitor-01 | Aluno=Ana (2026002)
+2026-11-23 19:32:47,502 [INFO] [Thread-197 (process_request_thread)] LIBERADO | Leitor=leitor-02 | Aluno=Ana (2026002)
+2026-11-23 19:32:47,545 [INFO] [Thread-198 (process_request_thread)] LIBERADO | Leitor=leitor-01 | Aluno=Ana (2026002)
+2026-11-23 19:32:51,511 [INFO] [Thread-199 (process_request_thread)] LIBERADO | Leitor=leitor-02 | Aluno=Carlos (2026003)
+2026-11-23 19:32:51,558 [WARNING] [Thread-200 (process_request_thread)] NEGADO | Leitor=leitor-01 | Matrícula=9999999
+2026-11-23 19:32:55,137 [INFO] [Thread-201 (process_request_thread)] LIBERADO | Leitor=teste | Aluno=Nicolas (2026001)
+2026-11-23 19:32:55,524 [INFO] [Thread-202 (process_request_thread)] LIBERADO | Leitor=leitor-02 | Aluno=Carlos (2026003)
+2026-11-23 19:32:55,565 [INFO] [Thread-203 (process_request_thread)] LIBERADO | Leitor=leitor-01 | Aluno=Ana (2026002)
+2026-11-23 19:32:56,193 [WARNING] [Thread-204 (process_request_thread)] NEGADO | Leitor=teste | Matrícula=9999999
+2026-11-23 19:32:57,293 [WARNING] Token inválido recebido de 172.30.0.1
+2026-11-23 19:32:59,531 [WARNING] [Thread-206 (process_request_thread)] NEGADO | Leitor=leitor-02 | Matrícula=9999999
+2026-11-23 19:32:59,571 [INFO] [Thread-207 (process_request_thread)] LIBERADO | Leitor=leitor-01 | Aluno=Nicolas (2026001)
+2026-11-23 19:33:03,541 [INFO] [Thread-212 (process_request_thread)] LIBERADO | Leitor=leitor-02 | Aluno=Nicolas (2026001)
+2026-11-23 19:33:03,575 [INFO] [Thread-213 (process_request_thread)] LIBERADO | Leitor=leitor-01 | Aluno=Ana (2026002)
+2026-11-23 19:33:05,474 [INFO] [Thread-214 (process_request_thread)] LIBERADO | Leitor=teste | Aluno=Nicolas (2026001)
+2026-11-23 19:33:07,544 [WARNING] [Thread-215 (process_request_thread)] NEGADO | Leitor=leitor-02 | Matrícula=9999999
+2026-11-23 19:33:07,583 [WARNING] [Thread-216 (process_request_thread)] NEGADO | Leitor=leitor-01 | Matrícula=9999999
+2026-11-23 19:33:11,545 [INFO] [Thread-217 (process_request_thread)] LIBERADO | Leitor=leitor-02 | Aluno=Carlos (2026003)
+2026-11-23 19:33:25,703 [INFO] [Thread-218 (process_request_thread)] LIBERADO | Leitor=leitor-01 | Aluno=Ana (2026002)
+2026-11-23 19:33:25,703 [WARNING] Cliente desconectou antes de receber a resposta
+2026-11-23 19:33:25,703 [INFO] [Thread-219 (process_request_thread)] LIBERADO | Leitor=leitor-02 | Aluno=Nicolas (2026001)
+2026-11-23 19:33:25,703 [WARNING] [Thread-220 (process_request_thread)] NEGADO | Leitor=leitor-01 | Matrícula=9999999
+2026-11-23 19:33:25,704 [WARNING] [Thread-221 (process_request_thread)] NEGADO | Leitor=leitor-02 | Matrícula=9999999
+2026-11-23 19:33:25,704 [WARNING] [Thread-222 (process_request_thread)] NEGADO | Leitor=leitor-01 | Matrícula=9999999
+2026-11-23 19:33:25,704 [WARNING] Cliente desconectou antes de receber a resposta
+2026-11-23 19:33:25,704 [WARNING] Cliente desconectou antes de receber a resposta
+2026-11-23 19:33:25,704 [WARNING] Cliente desconectou antes de receber a resposta
+2026-11-23 19:33:25,705 [WARNING] Cliente desconectou antes de receber a resposta
+2026-11-23 19:33:27,572 [WARNING] [Thread-223 (process_request_thread)] NEGADO | Leitor=leitor-02 | Matrícula=9999999
+2026-11-23 19:33:29,628 [INFO] [Thread-224 (process_request_thread)] LIBERADO | Leitor=leitor-01 | Aluno=Nicolas (2026001)
+2026-11-23 19:33:31,580 [WARNING] [Thread-225 (process_request_thread)] NEGADO | Leitor=leitor-02 | Matrícula=9999999
+2026-11-23 19:33:33,643 [WARNING] [Thread-226 (process_request_thread)] NEGADO | Leitor=leitor-01 | Matrícula=9999999
+2026-11-23 19:33:35,593 [INFO] [Thread-227 (process_request_thread)] LIBERADO | Leitor=leitor-02 | Aluno=Ana (2026002)
+2026-11-23 19:33:37,646 [INFO] [Thread-228 (process_request_thread)] LIBERADO | Leitor=leitor-01 | Aluno=Nicolas (2026001)
+2026-11-23 19:33:46,837 [INFO] Servidor de Controle de Acesso na porta 8080 (HTTP/TCP)
+2026-11-23 19:33:47,792 [INFO] [Thread-1 (process_request_thread)] LIBERADO | Leitor=leitor-02 | Aluno=Nicolas (2026001)
+2026-11-23 19:33:49,675 [INFO] [Thread-2 (process_request_thread)] LIBERADO | Leitor=leitor-01 | Aluno=Nicolas (2026001)
+2026-11-23 19:33:51,802 [INFO] [Thread-3 (process_request_thread)] LIBERADO | Leitor=leitor-02 | Aluno=Ana (2026002)
+2026-11-23 19:33:53,678 [WARNING] [Thread-4 (process_request_thread)] NEGADO | Leitor=leitor-01 | Matrícula=9999999
+2026-11-23 19:33:55,813 [INFO] [Thread-5 (process_request_thread)] LIBERADO | Leitor=leitor-02 | Aluno=Carlos (2026003)
+2026-11-23 19:33:57,680 [INFO] [Thread-6 (process_request_thread)] LIBERADO | Leitor=leitor-01 | Aluno=Carlos (2026003)
+2026-11-23 19:34:06,338 [INFO] Servidor de Controle de Acesso na porta 8080 (HTTP/TCP)
+2026-11-23 19:34:06,380 [INFO] [Thread-1 (process_request_thread)] LIBERADO | Leitor=leitor-02 | Aluno=Nicolas (2026001)
+2026-11-23 19:34:06,427 [INFO] [Thread-2 (process_request_thread)] LIBERADO | Leitor=leitor-01 | Aluno=Nicolas (2026001)

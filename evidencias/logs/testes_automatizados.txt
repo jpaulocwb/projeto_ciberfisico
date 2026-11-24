@@ -1,0 +1,61 @@
+date
+Mon Nov 23 16:52:30 -03 2026
+jpaulo@MacBook-Pro-de-Joao-Paulo controle_acesso % 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+docker compose exec servidor-acesso python testes.py
+test_envia_json_token_e_timeout (__main__.TestesCliente.test_envia_json_token_e_timeout) ... ok
+test_erro_http_com_json_ou_html_nao_encerra_cliente (__main__.TestesCliente.test_erro_http_com_json_ou_html_nao_encerra_cliente) ... ok
+test_falhas_de_conexao_nao_encerram_cliente (__main__.TestesCliente.test_falhas_de_conexao_nao_encerram_cliente) ... ok
+test_resposta_invalida_nao_encerra_cliente (__main__.TestesCliente.test_resposta_invalida_nao_encerra_cliente) ... ok
+test_timeout_durante_leitura_nao_encerra_cliente (__main__.TestesCliente.test_timeout_durante_leitura_nao_encerra_cliente) ... ok
+test_campos_invalidos (__main__.TestesServidor.test_campos_invalidos) ... ok
+test_cliente_desconectado_gera_aviso_sem_excecao (__main__.TestesServidor.test_cliente_desconectado_gera_aviso_sem_excecao) ... ok
+test_json_invalido (__main__.TestesServidor.test_json_invalido) ... ok
+test_matricula_desconhecida (__main__.TestesServidor.test_matricula_desconhecida) ... ok
+test_matriculas_autorizadas (__main__.TestesServidor.test_matriculas_autorizadas) ... ok
+test_rota_inexistente (__main__.TestesServidor.test_rota_inexistente) ... ok
+test_tamanho_invalido (__main__.TestesServidor.test_tamanho_invalido) ... ok
+test_token_incorreto (__main__.TestesServidor.test_token_incorreto) ... ok
+
+----------------------------------------------------------------------
+Ran 13 tests in 0.005s
+
+OK
+jpaulo@MacBook-Pro-de-Joao-Paulo controle_acesso % 
+
+
+
+
+
+
+
+
