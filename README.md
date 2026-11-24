@@ -13,11 +13,6 @@ O projeto usa apenas a biblioteca padrão do Python. Não é necessário instala
 
 O código Python e os arquivos do Docker ficam na raiz. Execute os comandos deste README nesta pasta, onde está `compose.yaml`.
 
-- [Relatório em PDF](documentacao/relatorio_controle_acesso.pdf), com links dos testes para as figuras.
-- [Relatório editável](documentacao/relatorio_controle_acesso.docx), para completar os dados e os links da equipe.
-- [Roteiro do vídeo](documentacao/roteiro_video.md), com falas, comandos e trechos do código.
-- [Prints, logs e captura de rede](evidencias/README.md), que comprovam os testes apresentados.
-
 ## 1. Arquivos e funcionamento
 
 | Arquivo | Função |
