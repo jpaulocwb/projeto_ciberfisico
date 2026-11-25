@@ -13,11 +13,6 @@ O projeto usa apenas a biblioteca padrão do Python. Não é necessário instala
 
 O código Python e os arquivos do Docker ficam na raiz. Execute os comandos deste README nesta pasta, onde está `compose.yaml`.
 
-- [Relatório em PDF](documentacao/relatorio_controle_acesso.pdf), com links dos testes para as figuras.
-- [Relatório editável](documentacao/relatorio_controle_acesso.docx), para completar os dados e os links da equipe.
-- [Roteiro do vídeo](documentacao/roteiro_video.md), com falas, comandos e trechos do código.
-- [Prints, logs e captura de rede](evidencias/README.md), que comprovam os testes apresentados.
-
 ## 1. Arquivos e funcionamento
 
 | Arquivo | Função |
@@ -291,13 +286,5 @@ Os nomes podem receber um prefixo do projeto nas listagens do Docker. Salve as s
 | Erro na primeira consulta | O servidor pode ainda estar iniciando; o cliente tenta novamente no ciclo seguinte. |
 | Navegador mostra `501` | A aplicação recebe `POST /validar`; não implementa `GET` ou painel. |
 
-## 11. Preparação da entrega
-
-- Publique o código e este README no repositório da equipe.
-- No PDF, inclua integrantes, objetivo, topologia, plano de rede, componentes e versões, bibliotecas e suas funções, funcionamento, testes com resultados e evidências, problemas e soluções, aprendizados e contribuição de cada integrante, conclusões e referências.
-- Registre resultados realmente observados. Este README descreve procedimentos e resultados esperados; não substitui as evidências da execução da equipe.
-- Inclua a declaração de uso de IA conforme o enunciado, informando a ferramenta e como ela foi usada. Todos devem revisar e saber explicar o conteúdo entregue.
-- Grave uma demonstração de até dez minutos, com participação visível e falada de todos.
-- Confira o acesso aos links do vídeo e do repositório e siga as regras de envio do professor.
 
 Referências técnicas para estudo: [servidor HTTP do Python](https://docs.python.org/3.11/library/http.server.html), [urllib.request](https://docs.python.org/3.11/library/urllib.request.html), [logging](https://docs.python.org/3.11/library/logging.html), [redes do Docker](https://docs.docker.com/engine/network/) e [volumes](https://docs.docker.com/engine/storage/volumes/).
