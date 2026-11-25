@@ -6,7 +6,7 @@ O projeto usa apenas a biblioteca padrão do Python. Não é necessário instala
 
 ## Integrantes
 
-- Nicolas Rodrigo Zinc Gonçalves dos Santos
+- Nicolas Rodrigo Zink Gonçalves dos Santos
 - João Paulo Gonçalves Barbosa
 
 ## Documentação e evidências
